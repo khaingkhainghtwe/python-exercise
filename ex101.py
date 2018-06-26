@@ -1,15 +1,15 @@
-tabby_rat = "\tI'm tabbed in."
-persian_rat = "I'm split\non a line."
-backslash_rat = "I'm \\ a \\ rat."
+tabby_pet = "\tI'm tabbed in."
+persian_pet = "I'm split\non a line."
+backslash_pet = "I'm \\ a \\ pet."
 
-fat_rat = """
-I'll rat list:
-\t* rat food
+fat_pet = """
+I'll pet list:
+\t* pet food
 \t* Fishies
 \t* Catnip\n\t* Grass
  """
 
-print(tabby_rat)
-print(persian_rat)
-print(backslash_rat)
-print(fat_rat)
+print(tabby_pet)
+print(persian_pet)
+print(backslash_pet)
+print(fat_pet)
